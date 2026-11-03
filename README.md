@@ -81,11 +81,13 @@ Meu foco está em **SaaS multi-tenant**, aplicações **web e mobile** e **integ
 <tr>
 <td width="50%" valign="top">
 <h3>⌘ Código & estudos</h3>
+<a href="https://github.com/fel124?tab=repositories&amp;type=public"><img src="./explore-code.gif" width="100%" alt="Animação de código e ramificações Git: ideias de Jônatas se transformando em código." /></a>
 <p>Meu espaço pessoal para compartilhar código e acompanhar a evolução do meu trabalho.</p>
 <a href="https://github.com/fel124?tab=repositories&amp;type=public"><strong>Explorar repositórios públicos →</strong></a>
 </td>
 <td width="50%" valign="top">
 <h3>↗ Portfólio & conexões</h3>
+<a href="https://jfsolutech.dev"><img src="./explore-portfolio.gif" width="100%" alt="Portfólio animado com interfaces em destaque e conexões em movimento." /></a>
 <p>Conheça meu portfólio e converse comigo sobre software, arquitetura e produtos digitais.</p>
 <a href="https://jfsolutech.dev"><strong>Conhecer meu portfólio →</strong></a>
 </td>
@@ -96,7 +98,7 @@ Meu foco está em **SaaS multi-tenant**, aplicações **web e mobile** e **integ
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jonatas-felipe-silva-0a86b5bb/"><img src="./connect.png" width="100%" alt="Uma boa ideia merece ganhar vida. Converse com Jônatas Silva sobre Full Stack, arquitetura SaaS e integrações de IA. Abrir LinkedIn." /></a>
+<a href="https://www.linkedin.com/in/jonatas-felipe-silva-0a86b5bb/"><img src="./connect.gif" width="100%" alt="Uma boa ideia merece ganhar vida. Converse com Jônatas Silva sobre Full Stack, arquitetura SaaS e integrações de IA. Abrir LinkedIn." /></a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonatas-felipe-silva-0a86b5bb/"><strong>Vamos conversar no LinkedIn</strong></a> ·
